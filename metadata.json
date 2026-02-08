@@ -1,0 +1,5 @@
+{
+  "name": "BrickMind AI",
+  "description": "An AI-powered LEGO creative assistant that suggests builds based on random parts using Gemini and LDraw contexts.",
+  "requestFramePermissions": []
+}
